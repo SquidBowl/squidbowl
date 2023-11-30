@@ -1,5 +1,5 @@
 # SquidBowl/TINKATONK README
-Hell! I am an experienced coder in the Haxe programming language, along with programming for various Friday Night Funkin' mods.
+Hello! I am an experienced coder in the Haxe programming language, along with programming for various Friday Night Funkin' mods.
 
 ## Some mod's I've made/contributed to
 * PKMN: PE - Owner/Programmer/Charter
