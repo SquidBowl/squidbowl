@@ -9,7 +9,7 @@ Welcome to my Github page! I am an adult who programs for various FNF mods and g
   
 - 😼 Looking forward to working on more awesome projects.
   
-- 🍌 If you're looking to contact me, please PM me over Gamebanana.]
+- 🍌 If you're looking to contact me, please PM me over Gamebanana.
 
 Check out my [Solo](https://solo.to/squidbowl)!
 
