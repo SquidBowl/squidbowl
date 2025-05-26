@@ -11,7 +11,7 @@ Welcome to my Github page! I am an adult who programs for various FNF mods and g
   
 - 🍌 If you're looking to contact me, please PM me over Gamebanana.
 
-Check out my [Solo](https://solo.to/squidbowl)!
+Check out my [Carrd](https://squidbowl.carrd.co/)!
 
 ![SquidBowl's GitHub stats](https://github-readme-stats.vercel.app/api?username=squidbowl&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squidbowl&layout=compact&theme=radical)
