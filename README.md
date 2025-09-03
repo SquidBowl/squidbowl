@@ -7,8 +7,6 @@ Welcome to my Github page! I am an adult who programs for various FNF mods and g
   
 - 💎 I am Non-binary/Genderfluid, so any pronouns work!
   
-- 😼 Looking forward to working on more awesome projects.
-  
 - 🍌 If you're looking to contact me, please PM me over Gamebanana.
 
 Check out my [Carrd](https://squidbowl.carrd.co/)!
